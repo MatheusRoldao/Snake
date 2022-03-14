@@ -1,3 +1,7 @@
+# SNAKE
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/MatheusRoldao/AtivSem02/blob/master/LICENSE) 
+
 # Sobre o projeto
 
 Projeto Criado para auto desenvolvimento em C# Web-Forms.
